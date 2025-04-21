@@ -1,0 +1,1 @@
+# find-only-repatitive-from-n-to-n-1-element
